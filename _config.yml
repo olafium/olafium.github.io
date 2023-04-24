@@ -1,5 +1,5 @@
 # Site settings
-title: "Jens K."
+title: "Resume of Jens K."
 description: "Estonian tinkerer with interests in data science, programming and electronics."
 
 # Build settings
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Jens K."
-resume_title:                   "Developer, Data Scientist"
+resume_title:                   "Software Developer, Data Scientist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "jens@animal.ee"
