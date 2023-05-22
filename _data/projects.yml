@@ -4,6 +4,12 @@
 # jazznotes.io
 - project: Various internet tests
   #role:
-  duration: 2012 &mdash; Present
+  duration: Present
   # url: "#"
   description: Built my own backend with node.js and PostgreSQL. Has over 3M results saved, 0.5M with additional demographic information. Ask me more about it!
+
+- project: Various scrapers
+  #role:
+  #duration: Present
+  # url: "#"
+  description: Built my own scrapers for various state institutions (e.g court registry) and public forums (to collect corpus data). Ask me more about it!
