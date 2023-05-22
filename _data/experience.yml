@@ -1,6 +1,6 @@
 # Jobs
 # Data Scientist
-- company: Käitumisuuringute Keskus (Center for Behavioural Studies)
+- company: Käitumisuuringute Keskus (Center for Behavioural Research)
   position: Developer / Data Scientist
   duration: August 2021 &mdash; April 2023
   summary: <ul class="resume-item-list"><li>Developed interactive front-end dashboards for presenting data (React)</li><li>Analyzed and visualized various datasets (pd, np, sklearn, plt)</li><li>Assisted with basic tasks in AWS</li><li>Created pre-processing pipelines and schemas for converting raw datasets into usable formats</li></ul>
