@@ -10,6 +10,6 @@
 
 - project: Various scrapers
   #role:
-  #duration: Present
+  duration: Present
   # url: "#"
   description: Built my own scrapers for various state institutions (e.g court registry) and public forums (to collect corpus data). Ask me more about it!
