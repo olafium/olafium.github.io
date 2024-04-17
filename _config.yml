@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Jens K."
-resume_title:                   "Software Developer, Data Scientist"
+resume_title:                   "Software & Hardware Engineer, Data Scientist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "jens@animal.ee"
@@ -23,7 +23,7 @@ resume_contact_address:         "-"
 resume_header_contact_info:     "-"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Ever since I was a teen, I've been experimenting with computers and electronics. Recently I got my first 2 years of work experience in data science and front-end development. Currently I'm studying Computer Engineering in the University of Tartu, but I'm also looking for a (part-time) challenge to sharpen my skills and participate in building something great.</p>"
+resume_header_intro: "<p>Ever since I was a teen, I've been experimenting with computers and electronics. Recently I got my first 2 years of work experience in Data Science and Front-End Development. Currently I'm studying Computer Engineering in the University of Tartu, but I'm also looking for a (part-time) challenge to sharpen my skills and participate in building something great.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
